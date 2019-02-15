@@ -1,0 +1,11 @@
+C:\Users\Nuno\source\repos\ProjetoSemanal_2 - WeatherApp\ProjetoSemanal_2 - WeatherApp\bin\Debug\netcoreapp2.1\ProjetoSemanal_2 - WeatherApp.deps.json
+C:\Users\Nuno\source\repos\ProjetoSemanal_2 - WeatherApp\ProjetoSemanal_2 - WeatherApp\bin\Debug\netcoreapp2.1\ProjetoSemanal_2 - WeatherApp.runtimeconfig.json
+C:\Users\Nuno\source\repos\ProjetoSemanal_2 - WeatherApp\ProjetoSemanal_2 - WeatherApp\bin\Debug\netcoreapp2.1\ProjetoSemanal_2 - WeatherApp.runtimeconfig.dev.json
+C:\Users\Nuno\source\repos\ProjetoSemanal_2 - WeatherApp\ProjetoSemanal_2 - WeatherApp\bin\Debug\netcoreapp2.1\ProjetoSemanal_2 - WeatherApp.dll
+C:\Users\Nuno\source\repos\ProjetoSemanal_2 - WeatherApp\ProjetoSemanal_2 - WeatherApp\bin\Debug\netcoreapp2.1\ProjetoSemanal_2 - WeatherApp.pdb
+C:\Users\Nuno\source\repos\ProjetoSemanal_2 - WeatherApp\ProjetoSemanal_2 - WeatherApp\obj\Debug\netcoreapp2.1\ProjetoSemanal_2 - WeatherApp.csprojAssemblyReference.cache
+C:\Users\Nuno\source\repos\ProjetoSemanal_2 - WeatherApp\ProjetoSemanal_2 - WeatherApp\obj\Debug\netcoreapp2.1\ProjetoSemanal_2 - WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Nuno\source\repos\ProjetoSemanal_2 - WeatherApp\ProjetoSemanal_2 - WeatherApp\obj\Debug\netcoreapp2.1\ProjetoSemanal_2 - WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Nuno\source\repos\ProjetoSemanal_2 - WeatherApp\ProjetoSemanal_2 - WeatherApp\obj\Debug\netcoreapp2.1\ProjetoSemanal_2 - WeatherApp.AssemblyInfo.cs
+C:\Users\Nuno\source\repos\ProjetoSemanal_2 - WeatherApp\ProjetoSemanal_2 - WeatherApp\obj\Debug\netcoreapp2.1\ProjetoSemanal_2 - WeatherApp.dll
+C:\Users\Nuno\source\repos\ProjetoSemanal_2 - WeatherApp\ProjetoSemanal_2 - WeatherApp\obj\Debug\netcoreapp2.1\ProjetoSemanal_2 - WeatherApp.pdb
